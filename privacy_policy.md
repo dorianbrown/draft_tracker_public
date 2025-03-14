@@ -1,0 +1,7 @@
+# MTG Draft Tracker Privacy Policy
+
+Currently all processes occuring within the app are done locally, no backend server is used, and no accounts are required for using the app.
+
+Camera access is required for taking pictures to be used for card detection (the main function of this app). Bluetooth access is used for sharing of draft decks with other app users.
+
+We might collect anonymous error logs data in the future, to better understand what might be going wrong out in the field.
