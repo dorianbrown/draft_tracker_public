@@ -4,4 +4,4 @@ Currently all processes occuring within the app are done locally, no backend ser
 
 Camera access is required for taking pictures to be used for card detection (the main function of this app). Bluetooth access is used for sharing of draft decks with other app users.
 
-We might collect anonymous error logs data in the future, to better understand what might be going wrong out in the field.
+We might collect anonymous error logs data in the future, to better understand what might be going wrong out in the field. Also since this app is built in flutter, anonymous crash logs are sent to google for improving the framework.
